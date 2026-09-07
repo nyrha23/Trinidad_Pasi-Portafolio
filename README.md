@@ -1,11 +1,8 @@
 # Trinidad Pasi | Portafolio
-![ImagenPerfil](/assets/img/about-me.jpg) 
 > FullStack Dev | UX/UI Designer & Dev | QA QC Tester | Software Developer 
 
-[![GitHub](https://img.shields.io/badge/nyrha23-C71585?style=flat-square&logo=github&logoColor=white&labelColor=101010)](https://github.com/nyrha23) 
-[![DiscordUser](https://img.shields.io/badge/nyrha23-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=101010)](https://discord.com/) 
-[![LinkedIn](https://img.shields.io/badge/Trinidad_Pasi-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/trinidadpasi/) 
-[![Instagram](https://img.shields.io/badge/nyrha23-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/nyrha23/) 
+[![GitHub](https://img.shields.io/badge/tcpasi-C71585?style=flat-square&logo=github&logoColor=white&labelColor=101010)](https://github.com/tcpasi) 
+[![LinkedIn](https://img.shields.io/badge/Trinidad_Pasi-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/tcpasi/) 
 
 ## De la belleza al código: mi pasión por la tecnología
 
@@ -25,8 +22,8 @@ Sin embargo, mi verdadera pasión siempre fue la tecnología. Lo que comenzó co
 > - **2024** Testing QA y Automatizacion | Agencia de Habilidades para el Futuro.
 > - **2024** Formación ONE G6 - Oracle Next Education | Alura Latam.
 > - **2024** Diseño UX | TalentoTech - Agencia de Habilidades para el Futuro.
-> - **2025** Diseño UI | TalentoTech - Agencia de Habilidades para el Futuro. _Cursando actualmente._
-> - **2023-2025** Tecnicatura Superior en Desarrollo de Software | IFTS Nº 29. _Cursando actualmente._
+> - **2025** Diseño UI | TalentoTech - Agencia de Habilidades para el Futuro. 
+> - **2023-2025** Tecnicatura Superior en Desarrollo de Software | IFTS Nº 29. 
 
 Mi camino no ha sido lineal, pero mi determinación me ha impulsado a seguir adelante. Soy una persona creativa, apasionada y con una gran capacidad de aprendizaje. Me adapto fácilmente a los nuevos desafíos y estoy siempre dispuesta a seguir creciendo en el ámbito tecnológico.
 
@@ -38,7 +35,3 @@ Mi objetivo es utilizar mi experiencia y conocimientos para aportar valor al mun
 ![ImagenPortafolio](/assets/img/portafolio.jpg) 
 > El portafolio se encuentra en constante actualización.
 
-Languages: 
-
-![Languages](https://img.shields.io/badge/62.5%25-gray?style=for-the-badge&logo=html5&logoColor=white&labelColor=%23E34F26) 
-![Languages](https://img.shields.io/badge/37.5%25-gray?style=for-the-badge&logo=css3&logoColor=white&labelColor=%231572B6) 
