@@ -1,7 +1,7 @@
 # Trinidad Pasi | Portafolio
 > FullStack Dev | UX/UI Designer & Dev | QA QC Tester | Software Developer 
 
-[![GitHub](https://img.shields.io/badge/tcpasi-C71585?style=flat-square&logo=github&logoColor=white&labelColor=101010)](https://github.com/tcpasi) 
+[![GitHub](https://img.shields.io/badge/Trinidad_Pasi-C71585?style=flat-square&logo=github&logoColor=white&labelColor=101010)](https://github.com/tcpasi) 
 [![LinkedIn](https://img.shields.io/badge/Trinidad_Pasi-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/tcpasi/) 
 
 ## De la belleza al código: mi pasión por la tecnología
